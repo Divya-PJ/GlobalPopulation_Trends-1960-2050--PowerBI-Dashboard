@@ -42,8 +42,10 @@ Dashboard/
 - Dashboard.pbix   
 
 Screenshots/  
-- dashboard_overview.png  
-- model_view.png  
+- dashboard.png  
+- modelview.png
+- yeartable.png
+- forecast.png  
   
 README.md  
 

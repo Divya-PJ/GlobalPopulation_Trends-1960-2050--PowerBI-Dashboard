@@ -44,8 +44,8 @@ Dashboard/
 Screenshots/  
 - dashboard.png  
 - modelview.png
-- yeartable.png
-- forecast.png  
+- forecast.png
+- yeartable.png  
   
 README.md  
 

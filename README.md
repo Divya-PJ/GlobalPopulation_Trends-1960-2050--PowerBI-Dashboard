@@ -53,7 +53,10 @@ README.md
 ## Screenshots
 
 Example:
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+![Dashboard Overview](Screenshots/dashboard.png)
+![Model_View](Screenshots/modelview.png)
+![Forecast_Trend](Screenshots/forecast.png)
+![Year_Table](Screenshots/yeartable.png)
 
 ---
 

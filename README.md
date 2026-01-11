@@ -44,8 +44,7 @@ Dashboard/
 Screenshots/  
 - dashboard_overview.png  
 - model_view.png  
-
-ReadMe.txt  
+  
 README.md  
 
 ---
